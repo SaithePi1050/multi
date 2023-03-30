@@ -1,0 +1,100 @@
+body
+{
+    background: linear-gradient(#bbdef6 0%, #8dddf3 50%, #42c3fb 100%);
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.div1 img {
+    width: 25%;
+}
+
+.movie-header{
+    font-size: 18px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.movie-header i{
+    float: right;
+}
+
+#Avengers-Endgame span{
+    color: orange;
+}
+
+#Shang-Chi-img{
+    width: 415px;
+    height: 650px;
+}
+
+#Shang-Chi1-img{
+    width: 398px;
+    height: 650px;
+}
+
+#Shang-Chi span{
+    color: orange;
+}
+
+#Diary1{
+    width: 350px;
+    height: 535px;
+}
+
+#Diary7{
+    width: 350px;
+    height: 535px;
+}
+
+#Harry1{
+    width: 350px;
+    height: 535px;
+}
+
+#Diary12{
+    width: 350px;
+    height: 535px;
+}
+
+#dog-man5{
+    background: linear-gradient(rgb(101, 153, 242) 0%, rgb(85, 85, 244) 50%, rgb(53, 53, 243) 100%);
+}
+
+#dog-man2{
+    background: linear-gradient(#bff6bb 0%, #5ef16f 50%, #1af26d 100%);
+}
+
+#dog-man1{
+    background: linear-gradient(#f99393 0%, #fb5555 50%, #f80e0e 100%);
+}
+
+#dog-man{
+    background: linear-gradient(#732af1 0%, #a681f1 50%, #dc89f1 100%);
+}
+
+#imgSai{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+
+#imgSai1{
+    width: 54px;
+    height: 54px;
+    border-radius: 27px;
+}
